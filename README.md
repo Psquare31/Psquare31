@@ -8,7 +8,7 @@ I build across the stack with a focus on clean, scalable code. Actively explorin
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-prajyot-b297232a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavprajyot31@gmail.com)</br>
-##Link to my portfoloo website:</t>
+## Link to my portfoloo website:</t>
 [Portfolio](https://portfolio-website-git-main-pranav-prajyots-projects.vercel.app/)
 
 # 💻 Tech Stack:
